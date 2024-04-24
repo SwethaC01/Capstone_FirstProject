@@ -10,6 +10,7 @@ Utilizing the YouTube API, the **'YouTube Data Harvesting'** project collects in
   * MySQL
   * Pandas
   * Streamlit
+  * API Integration
 
 ## 📦 Installation
 
