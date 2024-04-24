@@ -25,6 +25,7 @@ pip install streamlit
 ### 💻 Import Packages
 ```python
 import streamlit as st
+import time
 import pandas as pd
 from streamlit_option_menu import option_menu
 from googleapiclient.discovery import build
