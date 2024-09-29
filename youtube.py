@@ -230,8 +230,8 @@ if __name__ == "__main__":
 
 if selected=='VIEW':
 
-        st.write("## :WHITE[QUESTIONS FOR STREAMLIT]")
-
+        st.markdown("## <span style='color:white;'>QUESTIONS FOR STREAMLIT</span>", unsafe_allow_html=True)
+  
         mycursor.execute("use youtube_db")
 
         Question = st.selectbox('Choose any one of the Questions',('---Select any Question----',
