@@ -2,8 +2,7 @@
 
 ## Youtube Data Harvesting
 
-Utilizing the YouTube API, the **'YouTube Data Harvesting'** project collects information from YouTube. This is achieved through Python scripting to interact with the YouTube API. The gathered data is then stored in a MySQL database, where tables are created to organize the information effectively. The tables are later joined as needed to generate SQL query outputs. Finally, this data is presented in a Streamlit application for intuitive viewing and analysis. The new changes has been added and the functionality should be added...
-
+Utilizing the YouTube API, the **'YouTube Data Harvesting'** project collects information from YouTube. This is achieved through Python scripting to interact with the YouTube API. The gathered data is then stored in a MySQL database, where tables are created to organize the information effectively. The tables are later joined as needed to generate SQL query outputs. Finally, this data is presented in a Streamlit application for intuitive viewing and analysis.
 ## Technologies Used:
 
   * Python
